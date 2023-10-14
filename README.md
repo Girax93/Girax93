@@ -11,7 +11,7 @@
 
 - Ask me about **C Basics, Basic hacking concepts, Marketing, Branding, Selling, Music ++**
 
-- My CV: (TBA) [github.com/CV *NA*](github.com/CV *NA*)
+- My CV: (TBA) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
