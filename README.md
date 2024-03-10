@@ -22,7 +22,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center"> 
+<p align="left"> 
 <a href="https://www.cprogramming.com/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" /></a> <a href="https://www.linux.org/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a> 
 <a href="https://www.photoshop.com/en" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/></a> 
 <a href="https://www.python.org/" target="blank"><img src="https://www.svgrepo.com/show/376344/python.svg" alt="python" width="50" height="50"/></a>
