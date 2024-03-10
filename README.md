@@ -23,7 +23,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<a href="https://www.cprogramming.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+<a href="https://www.cprogramming.com/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://www.photoshop.com/en" target="blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/> </a> 
 <a href="https://www.python.org/" target="blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/376344/python.svg" alt="photoshop" width="40" height="40"/> </a> 
 </p>
