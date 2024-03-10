@@ -1,6 +1,6 @@
 <h1 align="center">Hi there!  I'm Ari Benjamin Gråwe.</h1>
 <h3 align="center">An aspiring and passionate IT Security & Programming Student</h3>
-<img align="right" alt="Coding" width="400" src="[https://ibb.co/FbyMVYv](https://ibb.co/FbyMVYv)">
+<img align="right" alt="Coding" width="400" src="https://ibb.co/FbyMVYv">
 
 
 - Current goal: **Making a career in Networking / Cyber Security**
