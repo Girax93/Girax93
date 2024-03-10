@@ -7,7 +7,7 @@
 
 - I'm currently learning: **C, Unix, Networks, Cyber Security / White Hat, Networks, Bash.**
 
-- All of my projects and articles are available at [github.com/Girax93?tab=repositories](https://github.com/Girax93?tab=repositories)
+- My coding projects are available at [github.com/Girax93?tab=repositories](https://github.com/Girax93?tab=repositories)
 
 - Ask me about **C Basics, Basic hacking concepts, Marketing, Branding, Selling, Music ++**
 
