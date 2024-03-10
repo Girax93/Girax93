@@ -27,7 +27,7 @@
 <a href="https://www.photoshop.com/en" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/></a> 
 <a href="https://www.python.org/" target="blank"><img src="https://www.svgrepo.com/show/376344/python.svg" alt="python" width="50" height="50"/></a>
 <a href="https://en.wikipedia.org/wiki/CSS" target="blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/css-icon.png" alt="css" width="40" height="40"/></a>
-<a href="https://en.wikipedia.org/wiki/HTML" target="blank"><img src="https://visualpharm.com/assets/808/HTML%205-595b40b65ba036ed117d4260.svg" alt="html" width="50" height="50"/></a>
+<a href="https://en.wikipedia.org/wiki/HTML" target="blank"><img padding-top:10px src="https://visualpharm.com/assets/808/HTML%205-595b40b65ba036ed117d4260.svg" alt="html" width="50" height="50"/></a>
 </p>
 
 
