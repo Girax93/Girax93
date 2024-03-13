@@ -3,6 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co/6RTxBth/icon-cartoon.png">
 
 <h3 align="left">About Me:</h3>
+
 - Current goal: **Making a career in IT Security / Networking**
 
 - I'm currently learning: **Networks, IT Security, Operating Systems, Sys Administration ++**
