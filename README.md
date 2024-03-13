@@ -3,13 +3,13 @@
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co/6RTxBth/icon-cartoon.png">
 
 
-- Current goal: **Making a career in Networking / Cyber Security**
+- Current goal: **Making a career in IT Security / Networking **
 
-- I'm currently learning: **C, Unix, Networks, Cyber Security / White Hat, Networks, Bash.**
+- I'm currently learning: **Networks, IT Security, Operating Systems, Sys Administration ++**
 
 - My coding projects are available at [github.com/Girax93?tab=repositories](https://github.com/Girax93?tab=repositories)
 
-- Ask me about **C Basics, Basic hacking concepts, Marketing, Branding, Selling, Music ++**
+- Ask me about **C, Linux/Unix related stuff, Marketing, Sales, Music, Gaming ++**
 
 - My CV: (TBA) 
 
