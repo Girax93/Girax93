@@ -8,7 +8,7 @@
 
 - I'm currently working on: **Creating a shell in C from scratch.**
 
-- Learning about: **Networks, IT Security, Operating Systems, Sys Administration ++**
+- Learning about: **Networks, IT Security, Operating Systems, SOC Analysis ++**
 
 - My coding projects are available at [github.com/Girax93?tab=repositories](https://github.com/Girax93?tab=repositories)
 
