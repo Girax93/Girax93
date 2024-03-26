@@ -1,6 +1,7 @@
 <h1 align="center">Hi there!  I'm Ari Benjamin Gråwe.</h1>
 <h3 align="center">An aspiring and passionate IT Security & Programming Student</h3>
 <img alight="right" alt="Coding" width="400px" src="">
+![](icon-cartoon.png)
 
 <h3 align="left">About Me:</h3>
 
