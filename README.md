@@ -14,7 +14,7 @@
 
 - Ask me about **C, Linux/Unix, Cybersecurity Music, Gaming, Movies, Travelling ++**
 
-> [Link to Notion CV](https://www.notion.so/aribenjamin/Ari-Benjamin-2e9d844aa94c47f2bc65329b7ba595be) <
+> [Link to Notion CV](https://www.notion.so/aribenjamin/Ari-Benjamin-2e9d844aa94c47f2bc65329b7ba595be)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
