@@ -12,9 +12,9 @@
 
 - My coding projects are available at [github.com/Girax93?tab=repositories](https://github.com/Girax93?tab=repositories)
 
-- Ask me about **C, Linux/Unix related stuff, Marketing, Sales, Music, Gaming ++**
+- Ask me about **C, Linux/Unix, Cybersecurity Music, Gaming, Movies, Travelling ++**
 
-- My CV: (TBA) 
+- My CV: > Link to Notion CV <
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
