@@ -4,7 +4,7 @@
 
 <h3 align="left">About Me:</h3>
 
-- Current goal: **Making a career in IT Security / Networking**
+- Current goal: **Making a career in Cybersecurity **
 
 - I'm currently working on: **Creating a shell in C from scratch.**
 
