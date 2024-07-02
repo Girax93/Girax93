@@ -6,7 +6,7 @@
 
 - Current goal: **Making a career in Cybersecurity**
 
-- I'm currently working on: **Creating a shell in C from scratch.**
+- I'm currently: **Working towards my CCNA certification, ETA August 2024**
 
 - Learning about: **Networks, IT Security, Operating Systems, SOC Analysis ++**
 
