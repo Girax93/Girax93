@@ -6,7 +6,7 @@
 
 - Current goal: **Making a career in Cybersecurity**
 
-- I'm currently: **Working towards my CCNA v1.1 certification, ETA August 2024**
+- I'm currently: **Working towards my CCNA v1.1 certification**
 
 - Learning about: **Networks, IT Security, Operating Systems, SOC Analysis ++**
 
