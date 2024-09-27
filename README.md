@@ -12,7 +12,7 @@
 
 - My coding projects are available at [github.com/Girax93?tab=repositories](https://github.com/Girax93?tab=repositories)
 
-- Ask me about **C, Linux/Unix, Cybersecurity Music, Gaming, Movies, Travelling ++**
+- Ask me about **C, Linux/Unix, Cybersecurity, Music, Gaming, Movies, Travelling ++**
 
 
 > [Link to Notion CV](https://www.notion.so/aribenjamin/Ari-Benjamin-2e9d844aa94c47f2bc65329b7ba595be)
